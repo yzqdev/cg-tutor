@@ -1,1 +1,0 @@
-const t={key:"v-087b0d14",path:"/cg-tutor/sites.html",title:"\u4E00\u4E9B\u7F51\u7AD9",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651939157e3,updatedTime:1651939157e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.03,words:8},filePathRelative:"cg-tutor/sites.md"};export{t as data};
