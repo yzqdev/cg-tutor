@@ -1,0 +1,16 @@
+{
+  "name": "cg-tutor",
+  "version": "1.0.0",
+  "description": "pc documents",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress   build docs",
+    "docs:clean-dev": "vuepress  dev docs --clean-cache",
+    "docs:dev": "vuepress  dev docs  "
+  },
+  "devDependencies": {
+    "vuepress2-plugin-full-text-search": "latest",
+    "vuepress": "next",
+    "vuepress-theme-hope": "next"
+  }
+}
