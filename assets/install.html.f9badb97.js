@@ -1,1 +1,0 @@
-const e={key:"v-8e89ec50",path:"/maya/install.html",title:"\u5B89\u88C5maya\u8F6F\u4EF6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1651940533e3,updatedTime:1651940533e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},readingTime:{minutes:.14,words:43},filePathRelative:"maya/install.md"};export{e as data};
