@@ -1,6 +1,7 @@
 import { defineUserConfig } from "@vuepress/cli";
 
 import theme from "./themeConfig";
+let basePath = "/cg-tutor/";
 import searchPlugin from "vuepress2-plugin-full-text-search";
 export default defineUserConfig({
     base: "/cg-tutor/",
@@ -26,6 +27,13 @@ export default defineUserConfig({
             {
                 rel: "stylesheet",
                 href: "//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css",
+            },
+        ],
+
+        [
+            "script",
+            {
+                src: "/cg-tutor/iconfont/iconfont.js",
             },
         ],
         [
