@@ -1,4 +1,4 @@
-## blender资源
+# blender资源
 
 ## 模型下载
 
@@ -13,6 +13,9 @@
 - [http://www.jusotu.com/category/3d.htm](http://www.jusotu.com/category/3d.htm)
 - [https://www.yunmoxing.com/](https://www.yunmoxing.com/)
 - [http://blenderco.cn/](http://blenderco.cn/)
+- [https://blender.kim/](https://blender.kim/)
+- [https://www.artstation.com/](https://www.artstation.com/)
+- [https://www.blendermx.com/](https://www.blendermx.com/)
 
 ### 收费
 

@@ -20,6 +20,7 @@ export default hopeTheme({
     footer: `powered by <a href='https://vuepress-theme-hope.github.io/v2/'>vuepress-theme-hope </a>`,
 
     displayFooter: true,
+
     plugins: {
         mdEnhance: {
             tabs: true,
