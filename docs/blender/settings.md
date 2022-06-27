@@ -2,7 +2,7 @@
 
 ## 界面
 
-![界面](./res/interface.webp)
+![界面](./res/界面.png)
 
 ## 视图
 
