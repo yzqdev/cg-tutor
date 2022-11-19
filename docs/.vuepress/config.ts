@@ -1,5 +1,5 @@
 import { defineUserConfig } from '@vuepress/cli'
-
+import {searchProPlugin} from 'vuepress-plugin-search-pro'
 import theme from './themeConfig'
 let basePath = '/cg-tutor/'
 
@@ -54,5 +54,7 @@ export default defineUserConfig({
 
   theme: theme,
 
-  plugins: [ ],
+  plugins: [ searchProPlugin({
+    indexContent:true
+  })],
 })
