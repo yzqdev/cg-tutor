@@ -1,0 +1,1 @@
+import{_ as t,W as s,X as a,Z as e,$ as c}from"./framework-56a1874c.js";const n={},r=e("h1",{id:"ps教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ps教程","aria-hidden":"true"},"#"),c(" ps教程")],-1),o=[r];function _(d,i){return s(),a("div",null,o)}const l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};

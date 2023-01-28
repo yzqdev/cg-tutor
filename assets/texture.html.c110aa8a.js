@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as r,c as a,b as e,d as o}from"./app.10d8d6bf.js";const c={},s=e("h1",{id:"关于材质",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于材质","aria-hidden":"true"},"#"),o(" 关于材质")],-1),n=[s];function _(d,i){return r(),a("div",null,n)}const f=t(c,[["render",_],["__file","texture.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as s,W as t,X as a,Z as e,$ as r}from"./framework-56a1874c.js";const c={},n=e("h1",{id:"资产库",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#资产库","aria-hidden":"true"},"#"),r(" 资产库")],-1),o=[n];function _(d,l){return t(),a("div",null,o)}const h=s(c,[["render",_],["__file","blender-assets.html.vue"]]);export{h as default};
