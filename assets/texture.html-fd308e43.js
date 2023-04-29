@@ -1,0 +1,1 @@
+import{_ as t,Y as a,Z as r,a0 as e,a1 as c}from"./framework-8dcb55ad.js";const s={},o=e("h1",{id:"关于材质",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于材质","aria-hidden":"true"},"#"),c(" 关于材质")],-1),n=[o];function _(d,i){return a(),r("div",null,n)}const l=t(s,[["render",_],["__file","texture.html.vue"]]);export{l as default};

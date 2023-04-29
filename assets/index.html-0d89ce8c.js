@@ -1,1 +1,0 @@
-import{_ as t,W as c,X as a,Z as e,$ as n}from"./framework-56a1874c.js";const r={},s=e("h1",{id:"cg教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cg教程","aria-hidden":"true"},"#"),n(" cg教程")],-1),o=[s];function _(d,i){return c(),a("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

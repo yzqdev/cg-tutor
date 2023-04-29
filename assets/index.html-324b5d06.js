@@ -1,0 +1,1 @@
+import{_ as a,Y as t,Z as s,a0 as e,a1 as c}from"./framework-8dcb55ad.js";const n={},r=e("h1",{id:"ps教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ps教程","aria-hidden":"true"},"#"),c(" ps教程")],-1),o=[r];function _(d,i){return t(),s("div",null,o)}const l=a(n,[["render",_],["__file","index.html.vue"]]);export{l as default};
